@@ -1,5 +1,5 @@
 <!-- Header Section -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F720EA&width=435&lines=%F0%9F%8C%90+Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC4C02&width=435&lines=->%20Welcome+to+my+profile)](https://git.io/typing-svg)
 <h3 align="center">
   <font face="Arial">Fullstack developer in constant search for improvement and continuous learning. Passionate about coding, my journey is marked by a commitment to building resilient and efficient systems. I like to always experience new challenges, as these are where there are opportunities to grow and expand my skills.
   </font>
@@ -31,9 +31,12 @@
 
 <div>
   <a href="mailto:danielmiretn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dantti/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%2330077B5?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+   <a href="https://steamcommunity.com/id/Dantti/" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-151515?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </div>
